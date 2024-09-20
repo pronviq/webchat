@@ -1,0 +1,10 @@
+@import "@/variables.scss";
+
+.chatfooter {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: $chatfooter_height;
+  border-top: 1px solid black;
+}

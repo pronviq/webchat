@@ -1,0 +1,10 @@
+@import "@/variables.scss";
+
+.chatcontainer {
+  width: calc(100% - $chats_width);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+}
